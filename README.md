@@ -5,7 +5,7 @@
 
 ## Launch
 
-To run this project just run this command:
+To run this project just run this command in project folder:
 
 ```sh
 docker compose up -d 
